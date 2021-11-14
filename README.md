@@ -24,8 +24,8 @@ Vous pouvez retrouver le site à travers le lien suivant : [https://fr.openfoodf
   
 
 ## You will find in this repositery : 
-* A [LaTeX report of the study](https://github.com/thomastrg/Price_prediction_footballers/blob/main/rapport/Player_Value_Prediction.pdf)
-* The [Data exploration processing and modeling Notebook](https://github.com/thomastrg/Price_prediction_footballers/tree/main/Modeling)
+* A [LaTeX report of the study](https://github.com/thomastrg/NLP_Clustering_OpenFoodFacts/blob/main/Open_food_facts_NLP_Nassar_Trang.pdf)
+* The [Data exploration processing and modeling Notebook](https://github.com/thomastrg/NLP_Clustering_OpenFoodFacts/blob/main/nlp_nassar_trang.ipynb)
 
 
 
